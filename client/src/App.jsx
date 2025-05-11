@@ -8,7 +8,7 @@ import ReviewFlightDetail from './components/ReviewFlightDetail';
 
 function App() {
   return (
-    <Router>
+    <Router basename='/'>
       <Navbar />
       <Routes>
         <Route path="/" element={<HomePage />} />
