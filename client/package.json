@@ -18,10 +18,10 @@
         "lucide-react": "^0.509.0",
         "react": "^19.1.0",
         "react-dom": "^19.1.0",
-        "react-router-dom": "^7.6.0"
+        "react-router-dom": "^6.23.1"
     },
     "engines": {
-        "node": "18"
+        "node": ">=18"
     },
     "homepage": "https://flight-booking-app-9b6c.onrender.com/"
 }
